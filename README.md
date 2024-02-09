@@ -1,2 +1,2 @@
 # processor-architecture
-Design of 4 bit Arithmetic and Logic Unit of a processor
+Processor architecture encompasses the design of a CPU's Arithmetic and Logic Unit (ALU), which performs arithmetic and logical operations. It includes buses for data transfer, CPU registers for temporary storage, and data paths that connect these components, facilitating efficient instruction execution and data processing.
